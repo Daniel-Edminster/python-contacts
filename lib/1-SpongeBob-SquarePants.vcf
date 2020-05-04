@@ -1,0 +1,6 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:SpongeBob SquarePants
+N:SquarePants;SpongeBob;;;
+TEL;TYPE=cell:(301) 888-8888
+END:VCARD

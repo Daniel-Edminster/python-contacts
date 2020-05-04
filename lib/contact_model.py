@@ -15,4 +15,3 @@ class Contacts(BaseModel):
     phone_number = BigIntegerField()
 
 db.create_tables([Contacts])
-
